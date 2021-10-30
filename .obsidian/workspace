@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 161
   },
   "right": {
     "id": "9d2b1d868afb59ee",
@@ -99,8 +99,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "7a5984e560d1037e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
