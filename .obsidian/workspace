@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "2fc8e6a22ab09431",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab442b0d55a44bed",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "шаль/Грамматика.md",
+            "mode": "source"
+          }
+        },
+        "group": "a2a1e86ed82d18c6"
+      },
+      {
+        "id": "d6e545de96fd7607",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "шаль/Грамматика.md",
+            "mode": "preview"
+          }
+        },
+        "group": "a2a1e86ed82d18c6"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31970a00094ca13c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ae89ba246f60045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "739346edba4b2bbd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b8a47d944a80e83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d2b1d868afb59ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b96de6968750770",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ed924088018bb34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "шаль/Грамматика.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b852391f579209fd",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ab442b0d55a44bed",
+  "lastOpenFiles": [
+    "шаль/Грамматика.md"
+  ]
+}
