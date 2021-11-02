@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ab442b0d55a44bed",
+        "id": "d6e545de96fd7607",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -13,10 +13,10 @@
             "mode": "source"
           }
         },
-        "group": "8e5adbab95860f7d"
+        "group": "6865a7f9fdcbd168"
       },
       {
-        "id": "d6e545de96fd7607",
+        "id": "6e7ee98c4ed6cef7",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -25,7 +25,7 @@
             "mode": "preview"
           }
         },
-        "group": "8e5adbab95860f7d"
+        "group": "6865a7f9fdcbd168"
       }
     ],
     "direction": "vertical"
@@ -94,30 +94,21 @@
             }
           },
           {
-            "id": "b852391f579209fd",
+            "id": "3769491527a9fdad",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
             }
-          },
-          {
-            "id": "7a5984e560d1037e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "ab442b0d55a44bed",
+  "active": "d6e545de96fd7607",
   "lastOpenFiles": [
     "шаль/Грамматика.md"
   ]
