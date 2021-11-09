@@ -13,7 +13,7 @@
             "mode": "source"
           }
         },
-        "group": "6865a7f9fdcbd168"
+        "group": "73333deca7922bc0"
       },
       {
         "id": "6e7ee98c4ed6cef7",
@@ -25,18 +25,7 @@
             "mode": "preview"
           }
         },
-        "group": "6865a7f9fdcbd168"
-      },
-      {
-        "id": "858dc68918aa6985",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "шаль/Грамматика.md",
-            "mode": "preview"
-          }
-        }
+        "group": "73333deca7922bc0"
       }
     ],
     "direction": "vertical"
