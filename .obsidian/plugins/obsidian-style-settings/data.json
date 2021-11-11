@@ -1,0 +1,7 @@
+{
+  "blue-topaz-theme@@background-settings-body-style": "background-settings-body-style-none",
+  "blue-topaz-theme@@translucent-setting-panel": false,
+  "blue-topaz-theme@@background-image-settings-switch": true,
+  "blue-topaz-theme@@background-image-settings-change": false,
+  "blue-topaz-theme@@font-family-major": "Bookerly, Merriweather, 'LXGW WenKai', var(--default-font)"
+}
